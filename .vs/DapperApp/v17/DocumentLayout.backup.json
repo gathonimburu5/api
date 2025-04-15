@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\repository\\implement\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\repository\\implement\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\repository\\implement\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\repository\\implement\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\repository\\implement\\icurrencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\repository\\implement\\icurrencyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\repository\\implement\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\repository\\implement\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|c:\\users\\hp\\desktop\\vbproject\\dapperapp\\dapperapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82CE053-E511-4637-9C12-551D9911120F}|DapperApp\\DapperApp.csproj|solutionrelative:dapperapp\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DapperApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DapperApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T07:08:03.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\IEmailService.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Repository\\Implement\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\IEmailService.cs",
+              "RelativeToolTip": "DapperApp\\Repository\\Implement\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:27:58.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICurrencyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\ICurrencyRepository.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Repository\\Implement\\ICurrencyRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\ICurrencyRepository.cs",
+              "RelativeToolTip": "DapperApp\\Repository\\Implement\\ICurrencyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:07:23.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Models\\Users.cs",
+              "RelativeToolTip": "DapperApp\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T06:58:22.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "DapperApp\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:18:08.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Program.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Program.cs",
+              "RelativeToolTip": "DapperApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:08:24.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DapperApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\appsettings.json",
+              "RelativeToolTip": "DapperApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T10:23:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "DapperApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:32:54.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\ITokenService.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Repository\\Implement\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\ITokenService.cs",
+              "RelativeToolTip": "DapperApp\\Repository\\Implement\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T14:59:20.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DapperApp\\Repository\\Implement\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\vbProject\\DapperApp\\DapperApp\\Repository\\Implement\\CustomerRepository.cs",
+              "RelativeToolTip": "DapperApp\\Repository\\Implement\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:18:33.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
